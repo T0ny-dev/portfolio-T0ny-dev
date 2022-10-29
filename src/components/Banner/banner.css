@@ -1,0 +1,103 @@
+.banner {
+  background-color: #ebf7f8ff;
+  height: 90vh;
+  display: flex;
+}
+
+.banner__title {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  height: 90vh;
+  color: #333333;
+  padding: 16vh  0vh 0vw 5vw;
+}
+
+.banner__title h1 {
+  font-size: 50px;
+  margin-bottom: 8vh;
+  font-family: 'Poppins', sans-serif; 
+  font-weight: bold;
+}
+
+.banner__title span {
+  font-size: 40px;
+  font-family: 'Poppins', sans-serif; 
+  font-weight: bold;
+  
+}
+
+.banner__title p {
+  margin-top: 8vh;
+  font-size: 20px;
+  margin-bottom: 8vh;
+}
+
+.banner__title button {
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  background-color: var(--blue);
+  font-size: 16px;
+  color: var(--white);
+  padding: 8px 30px;
+  border-radius: 5px;
+  border: 1px solid var(--blue);
+  width: 45%;
+  margin-bottom: 3vh;
+}
+
+.banner__title button:hover {
+  background-color: #1665dc;
+}
+
+.banner__title a {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  color: #333333;
+}
+
+.banner__figure {
+  width: 55%;
+  height: 100%;
+}
+
+.banner__figure--3D {
+  height: 100%;
+}
+
+@media (max-width: 1100px) {
+
+  .banner__title h1 {
+    font-size: 30px;
+    margin-bottom: 8vh;
+    font-family: 'Poppins', sans-serif; 
+    font-weight: bold;
+  }
+
+  .banner__title span {
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif; 
+    font-weight: bold;
+    
+  }
+
+  .banner__figure--3D {
+    display: none;
+  }
+  .banner__figure {
+    background-image: url("../../assets/render.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+}
+
+@media (max-width: 550px) {
+  .banner__figure {
+    display: none;
+  }
+  .banner__title {
+    width: 100%;
+  }
+}

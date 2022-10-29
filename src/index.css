@@ -1,0 +1,51 @@
+
+
+@font-face {
+  font-family: free-sans;
+  src: url(../src/assets/fonts/FreeSans.ttf);
+  font-style: normal;
+}
+
+
+
+:root {
+  font-family: free-sans;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  --blue:#0768f8ff;
+  --white:#fff;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+#github__button {
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+  background-color: transparent;
+  font-size: 16px;
+  color: #0f0f0f;
+  padding: 8px 30px;
+  border-radius: 5px;
+  border: 1px solid #0f0f0f ;
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}

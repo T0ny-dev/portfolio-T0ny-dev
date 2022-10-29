@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 52.916665 52.916668"
+   version="1.1"
+   id="svg2487"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="react.svg">
+  <defs
+     id="defs2481" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="71.005051"
+     inkscape:cy="126.34957"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1389"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1342"
+     inkscape:window-height="676"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2484">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1389"
+       transform="matrix(1.749463,0,0,1.749463,27.149915,26.714843)"
+       style="stroke:#9c9c9c;stroke-opacity:1">
+      <circle
+         cx="-0.30247378"
+         cy="-0.30247378"
+         r="2.6402998"
+         fill="#61dafb"
+         id="circle1366"
+         style="fill:#9b9b9b;fill-opacity:1;stroke:#9c9c9c;stroke-width:1.28795;stroke-opacity:1" />
+      <g
+         stroke="#61dafb"
+         stroke-width="1"
+         fill="none"
+         id="g1374"
+         style="stroke:#9c9c9c;stroke-opacity:1"
+         transform="matrix(1.2879512,0,0,1.2879512,-0.30247377,-0.30247377)">
+        <ellipse
+           rx="11"
+           ry="4.1999998"
+           id="ellipse1368"
+           cx="0"
+           cy="0"
+           style="stroke:#9c9c9c;stroke-opacity:1" />
+        <ellipse
+           rx="11"
+           ry="4.1999998"
+           transform="rotate(60)"
+           id="ellipse1370"
+           cx="0"
+           cy="0"
+           style="stroke:#9c9c9c;stroke-opacity:1" />
+        <ellipse
+           rx="11"
+           ry="4.1999998"
+           transform="rotate(120)"
+           id="ellipse1372"
+           cx="0"
+           cy="0"
+           style="stroke:#9c9c9c;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

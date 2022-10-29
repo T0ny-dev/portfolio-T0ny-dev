@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 52.916665 52.916668"
+   version="1.1"
+   id="svg2487"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="boostrap.svg">
+  <defs
+     id="defs2481">
+    <linearGradient
+       id="bs-logo-b"
+       x1="193.508"
+       x2="293.51401"
+       y1="109.74"
+       y2="278.87201"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         id="stop1508" />
+      <stop
+         offset="1"
+         stop-color="#f1e5fc"
+         id="stop1510" />
+    </linearGradient>
+    <filter
+       id="bs-logo-c"
+       width="197"
+       height="249"
+       x="161.901"
+       y="83.457001"
+       color-interpolation-filters="sRGB"
+       filterUnits="userSpaceOnUse">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood1513" />
+      <feColorMatrix
+         in="SourceAlpha"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         id="feColorMatrix1515" />
+      <feOffset
+         dy="4"
+         id="feOffset1517" />
+      <feGaussianBlur
+         stdDeviation="8"
+         id="feGaussianBlur1519" />
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"
+         id="feColorMatrix1521" />
+      <feBlend
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow"
+         id="feBlend1523"
+         mode="normal" />
+      <feBlend
+         in="SourceGraphic"
+         in2="effect1_dropShadow"
+         result="shape"
+         id="feBlend1525"
+         mode="normal" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="71.005051"
+     inkscape:cy="126.34957"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1389"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1342"
+     inkscape:window-height="676"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2484">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1389"
+       transform="matrix(1.749463,0,0,1.749463,27.149915,26.714843)"
+       style="stroke:#9c9c9c;stroke-opacity:1">
+      <path
+         fill="url(#bs-logo-a)"
+         d="m -11.254022,-8.4947901 c -0.0533,-1.5307079 1.139311,-2.9422229 2.7513523,-2.9422229 H 8.0157661 c 1.6120404,0 2.8046559,1.411515 2.7513529,2.9422229 -0.05121,1.4703922 0.01528,3.375111 0.494638,4.9281665 0.480898,1.5578543 1.291828,2.5425521 2.61997,2.66907996 V 0.53714678 C 12.553585,0.66367447 11.742655,1.6483724 11.261757,3.2062262 10.782404,4.7592813 10.715912,6.6639994 10.767119,8.1344479 10.820421,9.6651 9.6278065,11.076615 8.0157661,11.076615 H -8.5026697 c -1.6120413,0 -2.8046573,-1.411515 -2.7512953,-2.9421671 0.05115,-1.4704485 -0.01533,-3.3751666 -0.49475,-4.9282217 -0.480844,-1.5578538 -1.29376,-2.54255163 -2.621956,-2.66907942 v -1.43469042 c 1.328142,-0.12652786 2.141112,-1.11122566 2.621956,-2.66907996 0.479409,-1.5530555 0.545901,-3.4577743 0.494693,-4.9281665 z"
+         id="path1530"
+         style="fill:#999999;stroke-width:0.0551805" />
+      <path
+         fill="url(#bs-logo-b)"
+         filter="url(#bs-logo-c)"
+         stroke="#ffffff"
+         d="m 267.103,312.457 c 47.297,0 75.798,-23.158 75.798,-61.355 0,-28.873 -20.336,-49.776 -50.532,-53.085 v -1.203 c 22.185,-3.609 39.594,-24.211 39.594,-47.219 0,-32.783 -25.882,-54.138 -65.322,-54.138 h -88.74 v 217 z m -54.692,-189.48 h 45.911 c 24.958,0 39.131,11.128 39.131,31.279 0,21.505 -16.484,33.535 -46.372,33.535 h -38.67 z m 0,161.961 v -71.431 h 45.602 c 32.661,0 49.608,12.03 49.608,35.49 0,23.459 -16.484,35.941 -47.605,35.941 z"
+         id="path1532"
+         style="fill:url(#bs-logo-b)"
+         transform="matrix(0.05518045,0,0,0.05518045,-14.370671,-11.437013)" />
+    </g>
+  </g>
+</svg>
