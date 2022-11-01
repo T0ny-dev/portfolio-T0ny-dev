@@ -62,6 +62,7 @@
   color: #333333;
   margin-bottom: 5vh;
   width: 80%;
+  text-align: center;
 }
 
 .skills__information__span {
@@ -127,7 +128,7 @@
 
 @media (max-width: 1100px) {
   .skills h2 {
-    font-size: 25px;
+    font-size: 20px;
     margin-bottom: 10vh;
   }
 
@@ -159,6 +160,9 @@
 
   .skill__information__learning div {
     width: 300px;
+  }
+  .skills__information__span {
+    justify-content: center;
   }
 }
 

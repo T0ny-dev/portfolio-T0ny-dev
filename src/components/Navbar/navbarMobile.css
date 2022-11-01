@@ -16,13 +16,14 @@
 }
 
 .navbar--mobile__iconMenu img {
-  width: 30px;
+  width: 35px;
 }
 
 .navbar--mobile__iconMenu button {
   border: none;
   background-color: transparent;
   cursor: pointer;
+  padding: 15px 10px;
 }
 
 .navbar--mobile__links {
@@ -32,7 +33,7 @@
   padding: 3vh 5vw;
   gap: 3vh;
   border-radius: 0px 0px 15px 15px;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .navbar--mobile__links a {
