@@ -5,6 +5,7 @@ import Microsoft from "../../assets/Microsoft_logo.svg.webp"
 import Ucamp from "../../assets/logo-top-ucamp.png"
 import Larnu from "../../assets/larnu.jpeg"
 import Spline from '@splinetool/react-spline';
+import RenderRoom from "../../assets/miniroom.png"
 
 
 const Skills = () => {
@@ -42,8 +43,11 @@ const Skills = () => {
             <span id="span__especial">Diseñador gráfico</span>
             <span id="span__especial">Desing Thinking</span>
           </div>
+          <div id="room">
+          <img src={RenderRoom} alt="room png"/>
+          </div>
           <div className="skill__information__3d">
-          <Spline scene="https://prod.spline.design/QbVmKPl2UfbRyv7x/scene.splinecode" />
+          <Spline scene="https://prod.spline.design/QbVmKPl2UfbRyv7x/scene.splinecode" id="canvas" />
           </div>
           <h3>Constante aprendizaje</h3>
           <div className="skill__information__learning">

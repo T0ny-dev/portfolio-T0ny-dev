@@ -124,6 +124,9 @@
   margin-bottom: 0;
 }
 
+#room {
+  display: none;
+}
 
 
 @media (max-width: 1100px) {
@@ -148,6 +151,7 @@
   width: 45px;
 }
 
+
 }
 
 @media (max-width: 450px) {
@@ -163,6 +167,14 @@
   }
   .skills__information__span {
     justify-content: center;
+  }
+  .skill__information__3d {
+    display: none;
+  }
+
+  #room {
+    display: flex;
+    padding-bottom: 10px;
   }
 }
 
